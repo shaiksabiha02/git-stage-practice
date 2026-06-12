@@ -1,0 +1,4 @@
+build a mobile app for students.
+Need to add login page.
+Need to improve UI.
+Dark mode features is pending.
